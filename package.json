@@ -23,7 +23,7 @@
     "react": "^16.11.0",
     "react-scripts": "3.0.1",
     "react-dom": "^16.11.0",
-    "i18next": "13.1.5",
+    "i18next": "26.3.4",
     "i18next-browser-languagedetector": "2.2.4",
     "i18next-locize-backend": "^1.7.1",
     "i18next-xhr-backend": "1.5.1",
